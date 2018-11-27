@@ -1,2 +1,2 @@
-# mathProject3
-Math project 3 quaternion
+# mathProject4
+Math project 4 interpolation
