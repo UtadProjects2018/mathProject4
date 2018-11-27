@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>571F7382-4E51-4A63-8823-F37B693F5A28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>transformation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED6590979C76FBA5E649EE5BB25CA097DBE985FC</key>
+		<string>https://bitbucket.org/josembenito/utad_3dgraphics101_lab_2s13.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MM123/P2 transformations/transformation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED6590979C76FBA5E649EE5BB25CA097DBE985FC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/josembenito/utad_3dgraphics101_lab_2s13.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED6590979C76FBA5E649EE5BB25CA097DBE985FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED6590979C76FBA5E649EE5BB25CA097DBE985FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>utad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
